@@ -1,0 +1,21 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+
+    <div class="settings">
+        <div class="container-intern">
+            <div class="settings__heading-wrap">
+                <h1 class="settings__heading-main">{% block title %}Settings{% endblock %}</h1>
+                <p class="settings__heading-side">Joined {{ app.user.joinedAt|date("d/m/y") }}</p>
+            </div>
+            <div class="settings__form-one">
+                {{ form(settingsForm) }}
+            </div>
+            <div class="settings__form-two">
+                <h2 class="settings__heading">Change password</h2>
+                {{ form(passwordForm) }}
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

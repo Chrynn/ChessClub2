@@ -1,0 +1,72 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+
+    <div class="dashboard">
+        <div class="container-intern">
+            <h1 class="dashboard__heading-main">{% block title %}Dashboard{% endblock %}</h1>
+            <div class="dashboard__stats">
+                <div class="dashboard__block">
+                    <div class="dashboard__column-one">
+                        <h2 class="dashboard__topic"><i class="dashboard__topic dashboard__topic--success">Win</i> count</h2>
+                        <div class="dashboard__circle">
+                            <h2 class="dashboard__number">{{ app.user.winCount ?? 0 }}</h2>
+                        </div>
+                    </div>
+                    <div class="dashboard__column-two">
+                        <h2 class="dashboard__topic"><i class="dashboard__topic dashboard__topic--failure">Lose</i> count</h2>
+                        <div class="dashboard__circle">
+                            <h2 class="dashboard__number">{{ app.user.loseCount ?? 0 }}</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="dashboard__block">
+                    <div class="dashboard__column-three">
+                        <h2 class="dashboard__topic">Wins as black</h2>
+                        <div class="dashboard__circle">
+                            <h2 class="dashboard__number">{{ app.user.winsAsBlack ?? 0 }}</h2>
+                        </div>
+                    </div>
+                    <div class="dashboard__column-four">
+                        <h2 class="dashboard__topic">Wins as white</h2>
+                        <div class="dashboard__circle">
+                            <h2 class="dashboard__number">{{ app.user.winsAsWhite ?? 0 }}</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="dashboard__best-game">
+                <h2 class="dashboard__heading">Your <i class="dashboard__heading dashboard__heading--success">best</i> match</h2>
+                <div class="dashboard__table-wrap">
+                    <table class="dashboard__table">
+                        <tr>
+                            <td colspan="3" class="dashboard__table-text dashboard__table-text--success">won</td>
+                            <td colspan="3" class="dashboard__table-text dashboard__table-text--failure">lost</td>
+                        </tr>
+                        <tr>
+                            <td class="dashboard__table-text dashboard__table-text--special dashboard__table-text--moves">moves</td>
+                            <td class="dashboard__table-text dashboard__table-text--special dashboard__table-text--color">color</td>
+                            <td class="dashboard__table-text dashboard__table-text--special dashboard__table-text--nick">nickname</td>
+                            <td class="dashboard__table-text dashboard__table-text--special dashboard__table-text--nick">nickname</td>
+                            <td class="dashboard__table-text dashboard__table-text--special dashboard__table-text--color">color</td>
+                            <td class="dashboard__table-text dashboard__table-text--special dashboard__table-text--moves">moves</td>
+                        </tr>
+                        <tr>
+                            {% if userBest %}
+                                <td class="dashboard__table-text">{{ userBest.playerWonMoves }}</td>
+                                <td class="dashboard__table-text">{{ userBest.playerWonColor }}</td>
+                                <td class="dashboard__table-text{% if userBest.playerWon.id is same as (app.user.id) %} dashboard__table-text--colored{% endif %}">{{ userBest.playerWon.nickname }}</td>
+                                <td class="dashboard__table-text">{{ userBest.playerLost.nickname }}</td>
+                                <td class="dashboard__table-text">{{ userBest.playerLostColor }}</td>
+                                <td class="dashboard__table-text">{{ userBest.playerLostMoves }}</td>
+                            {% else %}
+                                <td colspan="6" class="dashboard__table-text">not enough of data</td>
+                            {% endif %}
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+
+<div class="login">
+    <div class="login__column">
+        <h1 class="login__column-heading">Chess Club</h1>
+        <div class="login__topic-wrap">
+            <div class="login__center">
+                <div class="login__topic">
+                    <div class="login__topic-heading-box">
+                        <h2 class="login__topic-heading">{% block title %}Login{% endblock %}</h2>
+                    </div>
+                </div>
+                {{ form(form) }}
+            </div>
+        </div>
+    </div>
+    <div class="background-icon-box login">
+        <img src="../img/icon-chess.png" alt="icon-chess" class="background-icon">
+    </div>
+</div>
+
+{% endblock %}

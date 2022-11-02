@@ -1,0 +1,26 @@
+{% set pageCurrent = app.request.attributes.get("_route") %}
+{% set pageDashboard = "index" %}
+{% set pageLeaderboard = "User:Leaderboard" %}
+{% set pageSettings = "User:Settings" %}
+
+<div class="menu">
+    <div class="menu-content">
+        <div class="container-intern">
+            <div class="flexer">
+                <div class="menu__column-one">
+                    <ul class="menu__list">
+                        <li class="menu__item"><a href="{{ path(pageDashboard) }}" class="menu__link{% if pageCurrent is same as (pageDashboard) %} menu__link--active{% endif %}">Dashboard</a></li>
+                        <li class="menu__item"><a href="{{ path(pageLeaderboard) }}" class="menu__link{% if pageCurrent is same as (pageLeaderboard) %} menu__link--active{% endif %}">Leaderboard</a></li>
+                    </ul>
+                </div>
+                <div class="menu__column-two">
+                    <div class="menu__settings">
+                        <a href="{{ path(pageSettings) }}" class="menu__link-settings{% if pageCurrent is same as (pageSettings) %} menu__link-settings--active{% endif %}" title="Settings">
+                            <img src="../img/icon-settings.jpg" alt="icon-settings" class="menu__image-settings">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

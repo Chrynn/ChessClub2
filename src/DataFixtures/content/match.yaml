@@ -1,0 +1,2697 @@
+# player 1 at least ten wins as white
+-
+  playerOne: 1
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 8
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 10
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 14
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 16
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 20
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 1 at least ten wins as black
+-
+  playerOne: 22
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 2
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 5
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 7
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 3 at least ten wins as white
+-
+  playerOne: 3
+  playerTwo: 11
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 13
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 3 at least ten wins as black
+-
+  playerOne: 2
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 4
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 6 at least ten wins as white
+-
+  playerOne: 6
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 8
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 10
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 14
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 16
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 20
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 22
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 6 at least ten wins as black
+-
+  playerOne: 1
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 27
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 9 at least ten wins as white
+-
+  playerOne: 9
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 9 at least ten wins as black
+-
+  playerOne: 8
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 12 at least ten wins as white
+-
+  playerOne: 12
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 8
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 12 at least ten wins as black
+-
+  playerOne: 10
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 15 at least ten wins as white
+-
+  playerOne: 15
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 8
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 10
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 14
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 16
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 15 at least ten wins as black
+-
+  playerOne: 18
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 27
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 18 at least ten wins as white
+-
+  playerOne: 18
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 8
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 10
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 14
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 16
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 20
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 22
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 28
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 18 at least ten wins as black
+-
+  playerOne: 6
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 27
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 2
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 4
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 21 at least ten wins as white
+-
+  playerOne: 21
+  playerTwo: 22
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 28
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 21 at least ten wins as black
+-
+  playerOne: 6
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 24 at least ten wins as white
+-
+  playerOne: 24
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 2
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 4
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 8
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 10
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 14
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 16
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 20
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 22
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 24 at least ten wins as black
+-
+  playerOne: 28
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 27
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 2
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 4
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# player 26 at least ten wins as white
+-
+  playerOne: 26
+  playerTwo: 14
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 16
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 20
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 22
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 28
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 1
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 3
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 6
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 9
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 12
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 15
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 18
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 21
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 24
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 13
+  playerTwoMoves: 12
+  playedAt: 2022-10-14 19:38:03
+
+# player 26 at least ten wins as black
+-
+  playerOne: 30
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 2
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 4
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 30
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 26
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+
+
+# The player that has highest number of wins (40) but did not play at least 10 matches as black & white
+-
+  playerOne: 15
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 27
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 2
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 4
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 26
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 28
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 1
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 3
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 9
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 15
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 21
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 24
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 12
+  playerTwoMoves: 13
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 27
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 20
+  playerTwoMoves: 21
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 2
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 43
+  playerTwoMoves: 44
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 4
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 19
+  playerTwoMoves: 20
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 6
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 6
+  playerTwoMoves: 7
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 8
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 19
+  playerTwoMoves: 20
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 10
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 49
+  playerTwoMoves: 50
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 12
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 46
+  playerTwoMoves: 47
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 14
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 16
+  playerTwoMoves: 17
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 16
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 49
+  playerTwoMoves: 50
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 18
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 34
+  playerTwoMoves: 35
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 20
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 22
+  playerTwoMoves: 23
+  playedAt: 2022-10-14 19:38:03
+-
+  playerOne: 22
+  playerTwo: 30
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 14
+  playerTwoMoves: 15
+  playedAt: 2022-10-14 19:38:03
+
+
+# player with the best performance in count of moves but do not have at least 10 wins as black & white
+-
+  playerOne: 16
+  playerTwo: 22
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 3
+  playerTwoMoves: 2
+  playedAt: 2022-9-22 16:38:03
+
+
+# player with the worst performance in count of moves but do not have at least 10 wins as black & white
+-
+  playerOne: 5
+  playerTwo: 27
+  playerOneColor: white
+  playerTwoColor: black
+  playerOneMoves: 90
+  playerTwoMoves: 89
+  playedAt: 2022-10-14 08:10:03

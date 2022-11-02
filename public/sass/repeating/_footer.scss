@@ -1,0 +1,16 @@
+.footer {
+    background: $colorPrimary;
+    padding: 50px 0 70px 0;
+
+    &__heading {
+        @include lightRegular;
+        font-size: 40px;
+        opacity: 0.7;
+    }
+
+    &__text {
+        @include lightThin;
+        font-size: 16px;
+        opacity: 0.7;
+    }
+}

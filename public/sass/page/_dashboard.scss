@@ -1,0 +1,126 @@
+.dashboard {
+    padding-bottom: 50px;
+
+    &__heading-main {
+        @include darkRegular;
+        margin: 30px 0 0 0;
+        font-size: 50px;
+        opacity: 0.2;
+    }
+
+    &__stats {
+        margin-top: 50px;
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+
+    &__block {
+        width: 50%;
+        display: flex;
+    }
+
+    &__column-one,
+    &__column-two,
+    &__column-three,
+    &__column-four {
+        width: 50%;
+    }
+
+    &__topic {
+        text-align: center;
+        font-style: normal;
+        @include darkRegular;
+
+        &--success {
+            color: $colorQuinary;
+        }
+
+        &--failure {
+            color: $shadeQuaternary;
+        }
+    }
+
+    &__circle {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        margin: 40px auto 0 auto;
+        background: $colorSecondary;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__number {
+        @include darkThin;
+        font-size: 70px;
+        opacity: 0.5;
+    }
+
+    &__best-game {
+        margin-top: 70px;
+    }
+
+    &__heading {
+        @include darkRegular;
+
+        &--success {
+            color: $colorQuinary;
+            font-style: normal;
+        }
+    }
+
+    &__table-wrap {
+        margin-top: 20px;
+        padding: 10px;
+        width: 100%;
+        background: $colorSecondary;
+        border-radius: 13px;
+    }
+
+    &__table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    &__table-text {
+        text-align: center;
+        @include darkThin;
+        font-size: 18px;
+        border: 1px solid $bg;
+        height: 40px;
+
+        &--success {
+            @include darkRegular;
+            color: $colorQuinary;
+            width: 50%;
+        }
+
+        &--failure {
+            @include darkRegular;
+            color: $shadeQuaternary;
+            width: 50%;
+        }
+
+        &--special {
+            @include darkRegular;
+        }
+
+        &--colored {
+            color: $blue;
+        }
+
+        &--moves {
+            width: 10%;
+        }
+
+        &--color {
+            width: 10%;
+        }
+
+        &--nick {
+            width: 25%;
+        }
+    }
+}

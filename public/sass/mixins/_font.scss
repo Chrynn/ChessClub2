@@ -1,0 +1,35 @@
+@mixin lightThin {
+    color: $colorSecondary;
+    font-family: $fontPrimary;
+    font-weight: 400;
+}
+
+@mixin lightRegular {
+    color: $colorSecondary;
+    font-family: $fontPrimary;
+    font-weight: 600;
+}
+
+@mixin lightBold {
+    color: $colorSecondary;
+    font-family: $fontPrimary;
+    font-weight: 800;
+}
+
+@mixin darkThin {
+    color: $colorTercialy;
+    font-family: $fontPrimary;
+    font-weight: 400;
+}
+
+@mixin darkRegular {
+    color: $colorTercialy;
+    font-family: $fontPrimary;
+    font-weight: 600;
+}
+
+@mixin darkBold {
+    color: $colorTercialy;
+    font-family: $fontPrimary;
+    font-weight: 800;
+}

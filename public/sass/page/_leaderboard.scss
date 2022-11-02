@@ -1,0 +1,116 @@
+.leaderboard {
+    padding-bottom: 50px;
+
+    &__heading-main {
+        @include darkRegular;
+        margin: 30px 0 0 0;
+        font-size: 50px;
+        opacity: 0.2;
+    }
+
+    &__content {
+        margin-top: 50px;
+        display: flex;
+    }
+
+    &__item {
+
+        &--special {
+
+            background: $bg;
+        }
+    }
+
+    &__heading {
+        @include darkRegular;
+        font-style: normal;
+
+        &--success {
+            color: $colorQuinary;
+        }
+
+        &--failure {
+            color: $shadeQuaternary;
+        }
+    }
+
+    &__column-one {
+        width: 700px;
+    }
+
+    &__column-two {
+        width: 100%;
+        margin-left: 30px;
+    }
+
+    &__table-wrap {
+        margin-top: 20px;
+        padding: 10px;
+        width: 100%;
+        background: $colorSecondary;
+        border-radius: 13px;
+    }
+
+    &__table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    &__table-text {
+        @include darkThin;
+        text-align: center;
+        font-size: 18px;
+        border: 1px solid $bg;
+        height: 40px;
+
+        &--special {
+            @include darkRegular;
+        }
+
+        &--colored {
+            color: $blue;
+        }
+
+        &--moves {
+            width: 15%;
+        }
+
+        &--nick {
+            width: 25%;
+        }
+
+        &--date {
+            width: 20%;
+        }
+
+        &--place {
+            width: 70px;
+        }
+
+        &--wins {
+            width: 130px;
+        }
+
+        &--success {
+            color: $colorQuinary;
+        }
+
+        &--failure {
+            color: $shadeQuaternary;
+        }
+
+        &--shadow {
+            opacity: 0.6;
+        }
+    }
+
+    &__highest-moves {
+        margin-top: 40px;
+    }
+
+    &__image {
+        width: 15px;
+        height: 15px;
+        margin-left: 5px;
+    }
+}

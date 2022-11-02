@@ -1,0 +1,28 @@
+<header class="header">
+    <div class="header__navigation">
+        <div class="container-intern">
+            <div class="header__content">
+                <div class="header__column-one">
+                    <div class="header__logo-box">
+                        <h2 class="header__logo">Chess Club</h2>
+                    </div>
+                    <div class="header__hamburger">
+                        <div class="hamburger-div2">
+                            <div class="menu-line2"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header__column-two">
+                    <div class="header__wrap">
+                        <div class="header__nickname-box">
+                            <p class="header__nickname">{{ app.user.nickname }}</p>
+                        </div>
+                        <div class="header__button-box">
+                            <a href="{{ path("logout") }}" class="header__button">log out</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

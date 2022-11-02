@@ -1,0 +1,90 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+
+    <div class="leaderboard">
+        <div class="container-intern">
+            <h1 class="leaderboard__heading-main">{% block title %}Leaderboard{% endblock %}</h1>
+            <div class="leaderboard__content">
+                <div class=leaderboard__column-one>
+                    <h2 class="leaderboard__heading">Top 10</h2>
+                    <div class="leaderboard__table-wrap">
+                        <table class="leaderboard__table">
+                            <tr>
+                                <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--place">place</td>
+                                <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--wins">wins</td>
+                                <td class="leaderboard__table-text leaderboard__table-text--special">nickname</td>
+                            </tr>
+                            {% if topPlayers %}
+                                {% for index, topPlayer in topPlayers %}
+                                    {% if index is not same as (0) %}
+                                        <tr {% if index is same as (1) %} class="leaderboard__item leaderboard__item--special{% endif %}">
+                                            <td class="leaderboard__table-text">{{ index }}</td>
+                                            <td class="leaderboard__table-text">{{ topPlayer.wins }}</td>
+                                            <td class="leaderboard__table-text{% if topPlayer.player is same as(app.user.nickname) %} leaderboard__table-text--colored{% endif %}">{{ topPlayer.player }}{% if index is same as(1) %}<img src="../img/icon-crown.png" class="leaderboard__image">{% endif %}</td>
+                                        </tr>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                <tr>
+                                    <td colspan="3" class="leaderboard__table-text">not enough of data</td>
+                                </tr>
+                            {% endif %}
+                        </table>
+                    </div>
+                </div>
+                <div class="leaderboard__column-two">
+                    <div class="leaderboard__lowest-moves">
+                        <h2 class="leaderboard__heading">The <i class="leaderboard__heading leaderboard__heading--success">best</i> match</h2>
+                        <div class="leaderboard__table-wrap">
+                            <table class="leaderboard__table">
+                                <tr>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--moves">moves</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--nick leaderboard__table-text--success">won</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--nick leaderboard__table-text--failure">lost</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--moves">moves</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--date">date</td>
+                                </tr>
+                                {% if bestMatch %}
+                                    <td class="leaderboard__table-text">{{ bestMatch.playerWonMoves }}</td>
+                                    <td class="leaderboard__table-text{% if bestMatch.playerWon.id is same as (app.user.id) %} leaderboard__table-text--colored{% endif %}">{{ bestMatch.playerWon.nickname }}</td>
+                                    <td class="leaderboard__table-text{% if bestMatch.playerLost.id is same as (app.user.id) %} leaderboard__table-text--colored{% endif %}">{{ bestMatch.playerLost.nickname }}</td>
+                                    <td class="leaderboard__table-text">{{ bestMatch.playerLostMoves }}</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--shadow">{{ bestMatch.date|date("d/m/y H:i") }}</td>
+                                {% else %}
+                                    <td colspan="5" class="leaderboard__table-text">not enough of data</td>
+                                {% endif %}
+                            </table>
+                        </div>
+                    </div>
+                    <div class="leaderboard__highest-moves">
+                        <h2 class="leaderboard__heading">The <i class="leaderboard__heading top-players__heading--failure">worst</i> match</h2>
+                        <div class="leaderboard__table-wrap">
+                            <table class="leaderboard__table">
+                                <tr>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--moves">moves</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--nick leaderboard__table-text--success">won</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--nick leaderboard__table-text--failure">lost</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--moves">moves</td>
+                                    <td class="leaderboard__table-text leaderboard__table-text--special leaderboard__table-text--date">date</td>
+                                </tr>
+                                <tr>
+                                    {% if worstMatch %}
+                                        <td class="leaderboard__table-text">{{ worstMatch.playerWonMoves }}</td>
+                                        <td class="leaderboard__table-text{% if worstMatch.playerWon.id is same as (app.user.id) %} leaderboard__table-text--colored{% endif %}">{{ worstMatch.playerWon.nickname }}</td>
+                                        <td class="leaderboard__table-text{% if worstMatch.playerLost.id is same as (app.user.id) %} leaderboard__table-text--colored{% endif %}">{{ worstMatch.playerLost.nickname }}</td>
+                                        <td class="leaderboard__table-text">{{ worstMatch.playerLostMoves }}</td>
+                                        <td class="leaderboard__table-text leaderboard__table-text--shadow">{{ worstMatch.date|date("d/m/y H:i") }}</td>
+                                    {% else %}
+                                        <td colspan="5" class="leaderboard__table-text">not enough of data</td>
+                                    {% endif %}
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
